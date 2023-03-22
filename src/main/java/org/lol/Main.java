@@ -1,5 +1,7 @@
-package org.lol;public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+package org.lol;
+
+public class Main{
+    public static void main(String[] args){
+        //This is where I'll be running my tests, it'll be empty most of the time
     }
 }
