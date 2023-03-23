@@ -1,6 +1,10 @@
 package solutions;
 
 public class FindMedianSortedArrays{
+
+    public FindMedianSortedArrays(){
+
+    }
     public double solution(int[] nums1, int[] nums2) {
         int mal = nums1.length + nums2.length;
         int[] mergedArray = new int[mal];

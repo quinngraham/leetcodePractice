@@ -1,6 +1,9 @@
 package solutions;
 
 public class LongestPalindrome{
+    public LongestPalindrome(){
+
+    }
     public static String solution(String s){
         if(s.length() < 2)
             return s;

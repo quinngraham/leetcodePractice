@@ -1,6 +1,9 @@
 package solutions;
 
 public class ZigzagConversion{
+    public ZigzagConversion(){
+
+    }
     public String solution(String s, int numRows) {
         if(s.length() <= numRows || numRows == 1)
             return s;

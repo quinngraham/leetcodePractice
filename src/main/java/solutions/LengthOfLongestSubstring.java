@@ -4,6 +4,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class LengthOfLongestSubstring{
+    public LengthOfLongestSubstring(){
+
+    }
     public int solution(String s) {
         Set<Character> window = new HashSet<>();
         int maxLength = 0;
