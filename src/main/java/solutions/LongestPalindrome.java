@@ -1,6 +1,6 @@
-package org.lol;
+package solutions;
 
-public class longestPalindrome{
+public class LongestPalindrome{
     public static String solution(String s){
         if(s.length() < 2)
             return s;

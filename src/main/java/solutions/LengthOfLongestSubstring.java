@@ -1,9 +1,9 @@
-package org.lol;
+package solutions;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class lengthOfLongestSubstring{
+public class LengthOfLongestSubstring{
     public int solution(String s) {
         Set<Character> window = new HashSet<>();
         int maxLength = 0;
