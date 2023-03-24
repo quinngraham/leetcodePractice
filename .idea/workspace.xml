@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="refactoring for organization">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/MyStrToInt.java" afterDir="false" />
+    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented String to Int conversion with some special cases and edge behavior.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/PalindromeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/FindMedianSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/FindMedianSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/LengthOfLongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/LongestPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/ZigzagConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/ZigzagConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +78,30 @@
       <option name="project" value="LOCAL" />
       <updated>1679582339808</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="implemented String to Int conversion with some special cases and edge behavior.">
+      <created>1679592542600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679592542600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactoring for organization" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring for organization" />
+    <MESSAGE value="implemented String to Int conversion with some special cases and edge behavior." />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented String to Int conversion with some special cases and edge behavior." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/PalindromeNumber.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
