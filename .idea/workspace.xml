@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented ContainerWithMostWater and cleaned up the RegexMatching file.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/IntToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/RomanToInt.java" afterDir="false" />
+    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented IntToRoman and RomanToInt">
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/ThreeSumClosest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" afterDir="false" />
     </list>
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679948438780</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="implemented IntToRoman and RomanToInt">
+      <created>1679956281975</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679956281975</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,6 +115,18 @@
     <MESSAGE value="implemented String to Int conversion with some special cases and edge behavior." />
     <MESSAGE value="implemented checking if a number is a palindrome, not a great implementation as i was doing the harder version of the question" />
     <MESSAGE value="implemented ContainerWithMostWater and cleaned up the RegexMatching file." />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented ContainerWithMostWater and cleaned up the RegexMatching file." />
+    <MESSAGE value="implemented IntToRoman and RomanToInt" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented IntToRoman and RomanToInt" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/LongestCommonPrefix.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
