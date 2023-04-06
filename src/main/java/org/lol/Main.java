@@ -6,8 +6,8 @@ import java.util.Arrays;
 public class Main{
     public static void main(String[] args){
         //This is where I'll be running my tests, it'll be empty most of the time (unless i'm actively working on one)
-        TwoSum s = new TwoSum();
-        int[] nums = {2,7,11,15};
-        System.out.println(Arrays.toString(s.solution(nums, 9)));
+        FourSum f = new FourSum();
+        int[] nums = {1,0,-1,0,-2,2};
+        System.out.println(f.solution(nums, 0));
     }
 }

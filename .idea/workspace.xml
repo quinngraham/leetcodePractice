@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented both of the 3sum problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/LetterCombinations.java" afterDir="false" />
+    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented twosum and letter combinations. still working on 4/ksums">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/FourSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/FourSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680106280744</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="implemented twosum and letter combinations. still working on 4/ksums">
+      <created>1680627441316</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680627441316</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,7 +130,8 @@
     <MESSAGE value="implemented ContainerWithMostWater and cleaned up the RegexMatching file." />
     <MESSAGE value="implemented IntToRoman and RomanToInt" />
     <MESSAGE value="implemented both of the 3sum problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented both of the 3sum problems" />
+    <MESSAGE value="implemented twosum and letter combinations. still working on 4/ksums" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented twosum and letter combinations. still working on 4/ksums" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -133,6 +140,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/solutions/LongestCommonPrefix.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/FourSum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
