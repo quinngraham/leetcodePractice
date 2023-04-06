@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented twosum and letter combinations. still working on 4/ksums">
+    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented a solution to 4sum, generalized to ksum. not fully solid on some aspect of it though">
+      <change afterPath="$PROJECT_DIR$/src/main/java/implementations/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/RemoveNthNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/FourSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/FourSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680627441316</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="implemented a solution to 4sum, generalized to ksum. not fully solid on some aspect of it though">
+      <created>1680790510727</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680790510727</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,7 +139,8 @@
     <MESSAGE value="implemented IntToRoman and RomanToInt" />
     <MESSAGE value="implemented both of the 3sum problems" />
     <MESSAGE value="implemented twosum and letter combinations. still working on 4/ksums" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented twosum and letter combinations. still working on 4/ksums" />
+    <MESSAGE value="implemented a solution to 4sum, generalized to ksum. not fully solid on some aspect of it though" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented a solution to 4sum, generalized to ksum. not fully solid on some aspect of it though" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
