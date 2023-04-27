@@ -17,8 +17,19 @@ public class ListNode{
     }
 
 
-    public void setUpTest1(ListNode head, ListNode head2){
-        head.next = new ListNode(3);
-        head2.next = new ListNode(7);
+    public void setUpTest1(ListNode head){
+        head.val = 1;
+        head.next = new ListNode(2);
+        head.next.next = new ListNode(3);
+        head.next.next.next = new ListNode(4);
+    }
+
+    public static void printNodes(ListNode head){
+        ListNode l = head;
+        while(l != null){
+            System.out.print(l.val + ", ");
+            l = l.next;
+        }
+        System.out.println();
     }
 }
