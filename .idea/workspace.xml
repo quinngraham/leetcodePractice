@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented MergeTwoSortedLLs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/FirstOccurString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/GeneratePthsis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/PairNodeSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/RemoveDupesFromSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/RemoveElement.java" afterDir="false" />
+    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented a few, working on another. interview practice!!! finally!!!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/ConcatenatedSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/DivideTwoIntegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/implementations/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/implementations/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/FirstOccurString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/FirstOccurString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/MAMP/htdocs&quot;
   }
 }</component>
   <component name="ScalaProjectSettings">
@@ -153,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680803352962</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="implemented a few, working on another. interview practice!!! finally!!!">
+      <created>1682612082742</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682612082742</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,7 +173,8 @@
     <MESSAGE value="implemented RemoveNthNode and the ListNode skeleton class to test" />
     <MESSAGE value="implemented ValidParenthesis" />
     <MESSAGE value="implemented MergeTwoSortedLLs" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented MergeTwoSortedLLs" />
+    <MESSAGE value="implemented a few, working on another. interview practice!!! finally!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented a few, working on another. interview practice!!! finally!!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -187,6 +193,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/solutions/MergeTwoSortedLLs.java</url>
           <line>10</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/ConcatenatedSubstring.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/ConcatenatedSubstring.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
