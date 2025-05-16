@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented a few easy ones, in the middle of another.">
+    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="Implemented a couple of easy ones for fun!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/DeleteDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,8 +169,26 @@
       <option name="project" value="LOCAL" />
       <updated>1691683502370</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Implemented a couple of easy ones for fun!">
+      <created>1747409852509</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747409852509</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactoring for organization" />
@@ -187,7 +205,8 @@
     <MESSAGE value="implemented a few, working on another. interview practice!!! finally!!!" />
     <MESSAGE value="implemented a bunch, just never saved them." />
     <MESSAGE value="implemented a few easy ones, in the middle of another." />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented a few easy ones, in the middle of another." />
+    <MESSAGE value="Implemented a couple of easy ones for fun!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented a couple of easy ones for fun!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
