@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented a bunch, just never saved them.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/ClimbStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/MySqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/SearchInsert.java" afterDir="false" />
+    <list default="true" id="9e2cb5ee-573f-4cac-b322-ab30558289b6" name="Changes" comment="implemented a few easy ones, in the middle of another.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lol/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/RemoveNthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/RemoveNthNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +50,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/MAMP/htdocs&quot;
+    &quot;last_opened_file_path&quot;: &quot;E:/realProjects100/leetcodePractice&quot;
   }
 }</component>
   <component name="ScalaProjectSettings">
@@ -169,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687713422934</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="implemented a few easy ones, in the middle of another.">
+      <created>1691683502370</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1691683502370</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,7 +186,8 @@
     <MESSAGE value="implemented MergeTwoSortedLLs" />
     <MESSAGE value="implemented a few, working on another. interview practice!!! finally!!!" />
     <MESSAGE value="implemented a bunch, just never saved them." />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented a bunch, just never saved them." />
+    <MESSAGE value="implemented a few easy ones, in the middle of another." />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented a few easy ones, in the middle of another." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
